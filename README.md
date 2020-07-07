@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Eslint
+
+- npm i -D eslint
+
+- ./node_modules/.bin/eslint --init
+
+- npm i -D babel-eslint eslint-plugin-react
+
+- npm i -D eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y
